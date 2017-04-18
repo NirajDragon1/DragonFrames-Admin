@@ -1,0 +1,15 @@
+{
+    "name": "payone/php-sdk",
+    "version": "0.9.0",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "description": "PAYONE PHP-SDK",
+    "keywords": ["payment", "PHP", "PAYONE"],
+    "homepage": "http://www.payone.de",
+    "authors": [
+        {
+            "name": "noovias",
+            "email": "info@noovias.com"
+        }
+    ]
+}
